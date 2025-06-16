@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&family=Coiny&family=MuseoModerno:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: #edf7ff;
+    color: #04146c;
+    font-family: 'Asap', 'sans-serif';
+    font-weight: regular   /* Regular weight is 400 */;
+}
+
+section{
+    margin: 100px;
+    width: 50%;
+}
+h1, h2, h3{
+    color: #0A2FF1;
+}
+
+h1, h3, h4{
+     font-family: 'MuseoModerno', 'cursive';
+}
+h1{
+    font-size: 117.33px;
+    margin: 0;
+}
+h2{
+    margin-top: -25px;
+    font-size: 52px;
+}
+
+h3{
+    font-size: 48px;
+}
+
+h4{
+    font-size: 178px;
+    color: #8A9AF1;
+    margin: 0;
+
+}
+
+p, ul{
+    font-size: 33.33px;
+}
+
+h2, p, ul{
+    font-weight: regular; /* Regular weight is 400 */
+}
+
+ul{
+    font-weight: bold;
+}
+
+li{
+    padding: 10px;
+}

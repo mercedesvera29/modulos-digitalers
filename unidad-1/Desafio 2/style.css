@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: #FFFFFF;
+    color: #000000;
+    text-align:  center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.promo > div{
+    font-weight: 700;
+}
+.no-te-lo-pierdas{
+    font-weight: 600;
+    font-size: 58.66px;
+    color: #0A2FF1;
+}
+
+.fecha{
+    font-size: 66px;
+    color: #0A2FF1
+}
+.header{
+    font-size: 198px ;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.dia{
+    font-size: 218px;
+}
+
+.descuentos{
+    font-size: 48px;
+    color: #0A2FF1;
+}
+
+.descuentos strong{
+    font-size: 60px;
+}
+
+.porcentaje{
+   background-color: black;
+    color: white;
+    
+}
+
+
+
