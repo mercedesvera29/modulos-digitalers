@@ -4,11 +4,10 @@
     padding: 0;
 }
 body{
-   font-family: Poppins, sans-serif;
-   color: #0A2FF1;
-
-font-weight: 500;
-font-size: 31px;
+    font-family: Poppins, sans-serif;
+    color: #0A2FF1;
+    font-weight: 500;
+    font-size: 31px;
 }
 h1{
     font-size: 79px;
