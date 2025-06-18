@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+/*me falto esto*/
+*{
+    box-sizing: border-box;
+    font-family: 'Mulish', 'sans-serif';
+}
+
+/*body perfecto, margin me falto , form perfecto y en div falto padding*/
+body{
+    background-image: url(images/M4-desafio1-fondo.png);
+   
+}
+
+div{
+    background-image: url(images/M4-desafio1-fondo-form.png);
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+}
+form{
+    margin: auto;
+    background-color: #ffffff;
+    color:  #04146c;
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+h1{
+    font-weight: 700;
+    font-size: 33px;
+}
+button{
+    background-color: #15163d;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+button:hover{
+    background-color: #1d1e54;
+}
+
+input{
+    color: #04146c;
+    border: 1px solid #04146c;
+    font-weight: 400;
+}
+input, button{
+    font-size: 23px;
+    padding: 10px;
+    margin-bottom: 10px;
+    /*solamente puse ancho y alto, lo de display block no lo puse ya que asi quedaba alineado*/
+    width: 500px;
+    height: 50px;
+}
